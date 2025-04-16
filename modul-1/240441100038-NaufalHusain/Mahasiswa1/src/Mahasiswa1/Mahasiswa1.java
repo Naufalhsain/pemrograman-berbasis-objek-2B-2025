@@ -5,7 +5,7 @@
 package Mahasiswa1;
 /**
  *
- * @author user
+ * @author user 
  */
 import java.util.Scanner;
 public class Mahasiswa1 {
@@ -21,7 +21,7 @@ public Mahasiswa1(String nama, String nim, String prodi, String alamat){
     this.nim = nim;
     this.prodi = prodi;
     this.alamat = alamat;
-}
+} 
    // Method
 void tampilkaninfo(){
     System.out.println("Nama : " + nama);
